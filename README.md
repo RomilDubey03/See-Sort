@@ -23,9 +23,3 @@ This tool visually demonstrates how various sorting algorithms work by animating
 - Adjustable array size and speed control
 - User-friendly interface
 - Clean and responsive design
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sorting-visualizer.git
